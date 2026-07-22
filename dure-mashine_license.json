@@ -34,7 +34,7 @@
     {"name": "User_32", "id": "ID_32", "expire_date": "disable"},
     {"name": "User_33", "id": "ID_33", "expire_date": "disable"}
   ],
-  "expire_date": "disable"
-    "latest_version": "v7.22",
+  "expire_date": "disable",
+    "latest_version": "v7.23",
   "download_url": "https://github.com/Duremar666/dure-mashina/releases/latest/download/dure-mashine_protected.exe"
 }
